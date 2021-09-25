@@ -1,0 +1,104 @@
+{
+  "tests": [
+    {
+      "name": "input 1",
+      "setup": "",
+      "run": "gradle test --tests br.ufpe.cin.if688.minijava.TypeCheckerTest.testInput1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "input 2",
+      "setup": "",
+      "run": "gradle test --tests br.ufpe.cin.if688.minijava.TypeCheckerTest.testInput2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "input 3",
+      "setup": "",
+      "run": "gradle test --tests br.ufpe.cin.if688.minijava.TypeCheckerTest.testInput3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "input 4",
+      "setup": "",
+      "run": "gradle test --tests br.ufpe.cin.if688.minijava.TypeCheckerTest.testInput4",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "input 5",
+      "setup": "",
+      "run": "gradle test --tests br.ufpe.cin.if688.minijava.TypeCheckerTest.testInput5",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "input 6",
+      "setup": "",
+      "run": "gradle test --tests br.ufpe.cin.if688.minijava.TypeCheckerTest.testInput6",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "input 7",
+      "setup": "",
+      "run": "gradle test --tests br.ufpe.cin.if688.minijava.TypeCheckerTest.testInput7",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "input 8",
+      "setup": "",
+      "run": "gradle test --tests br.ufpe.cin.if688.minijava.TypeCheckerTest.testInput8",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "input 9",
+      "setup": "",
+      "run": "gradle test --tests br.ufpe.cin.if688.minijava.TypeCheckerTest.testInput9",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "input 10",
+      "setup": "",
+      "run": "gradle test --tests br.ufpe.cin.if688.minijava.TypeCheckerTest.testInput10",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "tests": [
+    {
+      "name": "testBinarySearch",
+      "setup": "",
+      "run": "gradle test --tests br.ufpe.cin.compilers.lexer.LexerTest.testBinarySearch",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "testBinaryTree",
+      "setup": "",
+      "run": "gradle test --tests br.ufpe.cin.compilers.lexer.LexerTest.testBinaryTree",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "testBubbleSort",
+      "setup": "",
+      "run": "gradle test --tests br.ufpe.cin.compilers.lexer.LexerTest.testBubbleSort",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "testLinearSearch",
+      "setup": "",
+      "run": "gradle test --tests br.ufpe.cin.compilers.lexer.LexerTest.testLinearSearch",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "testLinkedList",
+      "setup": "",
+      "run": "gradle test --tests br.ufpe.cin.compilers.lexer.LexerTest.testLinkedList",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "testQuicksort",
+      "setup": "",
+      "run": "gradle test --tests br.ufpe.cin.compilers.lexer.LexerTest.testQuicksort",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
